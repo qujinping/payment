@@ -4,4 +4,4 @@ set -e
 
 APPROOT=/opt/app-root
 
-exec $APPROOT/bin/user "$@"
+exec $APPROOT/bin/payment "$@"
